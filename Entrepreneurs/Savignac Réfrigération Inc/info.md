@@ -3,6 +3,7 @@ Lieu: Shawinigan Centre
 Tel: 819-539-0025  
 Email: Via leur site internet  
 Site: https://savignacrefrigeration.com/  
-Status: Courriel Envoyé, lundi le 26 à 8h30 am
+Status: Visite fait, Brochure en main
 Note:
 - Ont installé la thermopompe actuel
+- Semble grandement vouloir vendre une thermopmpe de marque mitsubishi
