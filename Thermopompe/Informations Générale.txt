@@ -2,7 +2,37 @@ Certification NEEP > Energy Start.
 Certification NEEP necessaire pour les subventions HQ et MÉRN.
 Une seul subvention, MÉRN ou bien HQ
 
+Devis:
+- Le prix des travaux, celui du matériel vendu (le cas échéant) et les taxes.
+- La description et la durée des travaux à réaliser, la liste du matériel requis, et si ce dernier sera fourni par l’entrepreneur ou le client
+- La nature et la durée de la garantie relative aux pièces et à la main-d’œuvre.
+- La durée de validité du devis.
+- Les modalités de paiement.
+
+Contrat:
+- Les nom et adresse du commerçant;
+- Le numéro des licences et permis exigés;
+- Les dates de début et de fin de l’installation de la thermopompe;
+- L’information sur la garantie;
+- L’engagement de l’entrepreneur à respecter la réglementation municipale et les normes du Code national du bâtiment;
+- Le numéro de sa police d’assurance responsabilité civile et le nom de sa compagnie d’assurance;
+- La description détaillée des travaux à effectuer;
+- Le prix total et les modalités de paiement.
+
+Garanties:
+- Garanties légales
+- Garantie du commerçant ou du fabricant
+- Garantie prolongée
+
 Thermopompe admissibles:
 https://www.hydroquebec.com/data/residentiel/mieux-consommer/pdf/liste-des-thermopompes-admissibles.pdf
 Programme LogisVert (HQ):
 https://www.hydroquebec.com/residentiel/mieux-consommer/fenetres-chauffage-climatisation/thermopompes/
+Registre des détenteurs de licence RBQ:
+https://www.pes.rbq.gouv.qc.ca/RegistreLicences
+Répertoire des membres de la CMMTQ
+https://cmmtq.org/boutique/repertoire_membres_cmmtq.php
+Service de qualification de la CMMTQ
+https://www.cmmtq.org/a-propos/notre-mission#qualification
+Antécédents de l’Entrepreneur (Infractions, Poursuivi ou Condamné):
+https://www.opc.gouv.qc.ca/se-renseigner/
