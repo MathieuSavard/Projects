@@ -5,3 +5,4 @@ Email: info@climatisationexpress.ca
 Site: www.climatisationexpress.ca  
 Status: Courriel envoyé, Reponse reçu via Email  
 Note:  
+- Nom du soumissionnaire: Denis  
