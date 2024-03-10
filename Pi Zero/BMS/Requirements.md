@@ -7,11 +7,18 @@ Charging the Battery while being in use
 - Deep discharge protection
 
 # Parameters
-- Nominal Battery Voltage
-- Total Battery Capacity
-- Max output Current
-- Max input Current
+## Battery
+- Model: 373560
+- Nominal Battery Voltage: 3.7V
+- Total Battery Capacity: 1000mAh
+- Max output Current: 
+- Max input Current: 
 
 # Measurements
 - Current Current **INA3221**
-- Current Voltage **ADC**
+- Current Voltage **ADS1115**
+
+# Todo
+Charge the batthery
+Discharge the battery
+Charge the batthery while discharging the battery
