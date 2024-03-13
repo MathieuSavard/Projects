@@ -5,6 +5,7 @@ Multiple Current Measuremnts **INA3221**
 Charging the Battery while being in use
 - Overvoltage protection
 - Deep discharge protection
+- Continuous Current / Continuous Voltage
 
 # Parameters
 ## Battery
@@ -18,7 +19,17 @@ Charging the Battery while being in use
 - Current Current **INA3221**
 - Current Voltage **ADS1115**
 
+# BMS
+**MCP73861**  
+**MCP73831**  
+**MCP73871**  
+**MCP73871**  
+BQ24074
+ TPS61090
+ TPS61090
+ 
 # Todo
 Charge the batthery
 Discharge the battery
 Charge the batthery while discharging the battery
+Check for LiIon type of batteries
