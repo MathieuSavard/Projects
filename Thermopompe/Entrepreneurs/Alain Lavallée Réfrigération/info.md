@@ -10,3 +10,9 @@ Note:
 - Soumission gratuite  
 - Garantie selon politique du manufacturier ?
 - L’entretien et le diagnostic ne sont pas garantis, ils sont au frais du client?
+- Les prix sont tout inclus
+
+# GWH12ATCXBD3DNA4 GWH12ATCXB-D3DNA1
+- Nous la ferait pour 3100$
+
+# GWH12AFCXD-D3DNA1 GWH12AGCXDD3DNA1

@@ -18,6 +18,7 @@ Charging the Battery while being in use
 # Measurements
 - Current Current **INA3221**
 - Current Voltage **ADS1115**
+- CC/CV: **TP4056**
 
 # BMS
 **MCP73861**  
