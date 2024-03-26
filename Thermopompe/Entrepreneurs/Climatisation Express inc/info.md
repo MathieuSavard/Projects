@@ -12,4 +12,5 @@ Note:
 - OCD18KCH20S-O et OCD18KCH20S-I semble bien avoir une subvention de 1488$
 - AE-X18ZU et AY-XPC18ZU ont un subvention de 690$ et non de 2640$
 - Frère ou Cousin de Savignac
+- 250$ de rabais sur la Sharp
 - La garanstis n'est pas transférable
