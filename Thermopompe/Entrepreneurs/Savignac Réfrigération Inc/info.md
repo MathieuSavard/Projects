@@ -8,3 +8,4 @@ Note:
 - Nom du soumissionnaire: Maxime
 - Ont installé la thermopompe actuel
 - Semble grandement vouloir vendre une thermopmpe de marque mitsubishi
+- Des dire de Climatisation Express, leur garantis n'est pas transférable
