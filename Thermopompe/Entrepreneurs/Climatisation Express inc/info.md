@@ -14,3 +14,4 @@ Note:
 - Frère ou Cousin de Savignac
 - 250$ de rabais sur la Sharp
 - La garanstis n'est pas transférable
+- Veut nous vendre des 18000 BTU, la climatisation pourrait se faire trop rapidement et ne déhumidifierais pas la maison
